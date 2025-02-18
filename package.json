@@ -1,0 +1,21 @@
+{
+  "name": "fazt-node-sql",
+  "version": "1.0.0",
+  "description": "video de youtube: https://www.youtube.com/watch?v=3dSkc-DIM74&t=129s&ab_channel=Fazt",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
