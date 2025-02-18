@@ -4,7 +4,8 @@
   "description": "video de youtube: https://www.youtube.com/watch?v=3dSkc-DIM74&t=129s&ab_channel=Fazt",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "type": "module",
   "keywords": [],
